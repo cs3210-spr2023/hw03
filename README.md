@@ -1,4 +1,4 @@
-# Assignment 03 - System Calls and Files
+# Homework 03 - System Calls and Files
 
 This assignment will give you exercises on making system calls and working with files in C.  Assignment is worth **210** points.
 
